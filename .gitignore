@@ -1,0 +1,9 @@
+**/node_modules/
+/flows/
+/Writerside/
+.envs
+.env/
+.env
+**/.envs/
+/.envs/
+
